@@ -1,17 +1,17 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  name: "Jose Hernandez",
+  title: "Software Engineer, Data Analyst, and Tech Enthusiast",
+  description: "Portfolio website of Jose Hernandez",
   accentColor: "#1d4ed8",
   social: {
-    email: "your-email@example.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    email: "josegrehernandez2415@gmail.com",
+    linkedin: "https://linkedin.com/in/jose-hernandez-tech/",
+    // twitter: "https://x.com/rfitzio",
+    github: "https://github.com/JoseEngE",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "Soy Jose Hernandez, un ingeniero de software y analista de datos con una pasión por la tecnología y la innovación. Con experiencia en desarrollo web y análisis de datos, me especializo en crear soluciones eficientes y escalables que impulsan el éxito empresarial. Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades para mantenerme a la vanguardia en este campo dinámico.",
+  skills: ["Javascript", "React", "Node.js", "Python", "Docker"],
   projects: [
     {
       name: "AI Dev Roundup Newsletter",
@@ -69,13 +69,10 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
+      school: "Universidad Central de Venezuela",
+      degree: "Ing Electrica",
       dateRange: "2014 - 2018",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
       ],
     },
     {
